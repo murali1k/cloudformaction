@@ -1,7 +1,7 @@
  [
    {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-07e6c437"
+    "ParameterValue": "ami-775e4f16"
     },
 
    {
@@ -11,17 +11,17 @@
    
    {
        "ParameterKey": "KeyName",
-       "ParameterValue": "instancepem"
+       "ParameterValue": "murali"
     },
 
     {
         "ParameterKey": "SubnetId",
-        "ParameterValue": "subnet-9b065bed"
+        "ParameterValue": "subnet-805044e4"
     },
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-422aac3b"
+	"ParameterValue": "sg-893051f0"
     }
 	
 ]
